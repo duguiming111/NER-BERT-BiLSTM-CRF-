@@ -35,5 +35,5 @@ xxx: train/test/demo，默认为demo
 <img src="imgs/demo.png">
 
 ## 5、参考
-[1] https://github.com/yumath/bertNER
+[1] https://github.com/yumath/bertNER <br />
 [2] https://github.com/google-research/bert
